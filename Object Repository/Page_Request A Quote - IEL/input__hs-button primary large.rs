@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__hs-button primary large</name>
+   <tag></tag>
+   <elementGuidId>f9661481-15da-4be6-ab4b-30dad9cf0016</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Get Quote']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.hs-button.primary.large</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6f42368c-a038-4bd8-aee6-c60a2d6e696c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>dff4cbc5-1de0-4396-912a-28f730f8a087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hs-button primary large</value>
+      <webElementGuid>8a6d7a58-699d-4c31-af33-b4f3e45bb2c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Get Quote</value>
+      <webElementGuid>9e6d643a-298a-4d21-a7d8-e138666365a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hsForm_c0a38888-b93e-4dac-99d4-f6965e329a06&quot;)/div[@class=&quot;hs_submit hs-submit&quot;]/div[@class=&quot;actions&quot;]/input[@class=&quot;hs-button primary large&quot;]</value>
+      <webElementGuid>fdec6666-04f8-483b-bcfb-60fbbb4c4a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Request A Quote - IEL/iframe_Required fields are marked with an a_d84d8d</value>
+      <webElementGuid>4e1e18f1-e66b-4f06-9cc8-9cede4901c5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Get Quote']</value>
+      <webElementGuid>340e1cac-c5fe-4726-987d-be5d77ac6974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='hsForm_c0a38888-b93e-4dac-99d4-f6965e329a06']/div/div[2]/input</value>
+      <webElementGuid>b601fa14-6565-46f7-bd97-2aee959564d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>c3ef9c53-d01c-4b2e-926b-453968d8996a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>273a9c93-386b-4a0a-9427-eadd5658ccd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
